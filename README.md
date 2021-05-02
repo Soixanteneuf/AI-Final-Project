@@ -1,3 +1,2 @@
-# ML Project
+# RPS Game
  
-<b> Collab with Soixanteneuf </b>
